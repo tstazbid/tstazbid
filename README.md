@@ -1,7 +1,7 @@
 ## Md Tazbidus Samad Tazbid
 I am an enthusiastic, reliable, responsible, and hard-working person. I am able to work well both in a team environment as well as using my own initiative. I love programming and I am a competitive programmer.
 
-## Github Stats
+## Github Status
 ![Tazbid's stat](https://github-readme-stats.vercel.app/api?username=tstazbid&show_icons=true&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tstazbid)
 
