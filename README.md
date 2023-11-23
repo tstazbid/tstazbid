@@ -1,5 +1,8 @@
 ## Md Tazbidus Samad Tazbid
+![](https://komarev.com/ghpvc/?username=tstazbid&color=brightgreen&style=plastic)
+
 I am an enthusiastic, reliable, responsible, and hard-working person. I am able to work well both in a team environment as well as using my own initiative. I love programming and I am a competitive programmer.
+
 
 ## Github Status
 ![Tazbid's stat](https://github-readme-stats.vercel.app/api?username=tstazbid&show_icons=true&count_private=true)
