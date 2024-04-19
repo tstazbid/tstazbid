@@ -11,7 +11,11 @@ I am an enthusiastic, reliable, responsible, and hard-working person. I am able 
 - 😄 Pronouns: He/Him
 
 ## Github Status
+<!--
 ![Tazbid's stat](https://github-readme-stats.vercel.app/api?username=tstazbid&show_icons=true&count_private=true)
+-->
+
+![Tazbid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tstazbid\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tstazbid)
 
 
@@ -36,4 +40,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tstazbid\&layout=donut-vertical)](https://github.com/tstazbid/github-readme-stats)
 -->
