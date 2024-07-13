@@ -22,7 +22,6 @@ I am an enthusiastic, reliable, responsible, and hard-working person. I am able 
 ## Contact Me
 Feel free to reach out to me via email or connect with me on LinkedIn!
 
-- 📧 **Email:** [tazbidus15-13711@diu.edu.bd](mailto:tazbidus15-13711@diu.edu.bd)
 - 🌐 **LinkedIn:** [linkedin.com/in/tazbid](https://www.linkedin.com/in/tazbid)
   
 I'm always open to discussing new opportunities, collaboration ideas, or just having a chat about technology and programming. Looking forward to hearing from you! 😊
