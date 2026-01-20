@@ -1,8 +1,6 @@
 ## Md Tazbidus Samad Tazbid
 ![](https://komarev.com/ghpvc/?username=tstazbid&color=brightgreen&style=plastic)
 
-I am an enthusiastic, reliable, responsible, and hard-working person. I am able to work well both in a team environment as well as using my own initiative. I love programming and I am a competitive programmer.
-
 ## About Me
 - 🔭 I’m currently working on improving my problem-solving skills and expanding my knowledge of algorithms and data structures.
 - 🌱 I’m currently learning advanced topics in computer science, including machine learning and software architecture.
